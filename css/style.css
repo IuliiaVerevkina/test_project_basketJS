@@ -25,7 +25,7 @@ input {
 	width: 70px;
 }
 button.add,
-button.delate {
+button.good_delete {
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -43,6 +43,7 @@ button.delate {
 	justify-content: center;
 	align-items: center;
 	margin-top: 15px;
+	margin-bottom: 15px;
 }
 .price_title,
 .price_title span {
